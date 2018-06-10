@@ -128,9 +128,8 @@
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_gravity="center"
-                wheel:progressIndeterminate="true"
             />
-            <!---->
+            <!--  wheel:progressIndeterminate="true" -->
         </FrameLayout>
 
         <TextView
